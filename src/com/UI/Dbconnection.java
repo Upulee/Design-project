@@ -16,8 +16,8 @@ public class Dbconnection {
                     "jdbc:mysql://localhost:3307/project?autoReconnect=true&useSSL=false","root","");
             return con;
         }catch(Exception e){ System.out.println(e);}
-        System.out.println("i love you  mage pana"); // so i have done one change to old source code ne...
-        // then i need to tell or update git to abt it.... got it?
+        //System.out.println("ygfygfuty");
+
 
         return null;
     }
