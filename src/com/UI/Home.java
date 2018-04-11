@@ -16,4 +16,9 @@ public class Home extends JFrame {
     private JButton addLecturerButton1;
     private JButton addUpdateRFIDButton;
     private JButton changeAccessLevelButton;
+    public JPanel MainP;
+
+public Home(){
+
+}
 }

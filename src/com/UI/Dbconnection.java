@@ -16,7 +16,7 @@ public class Dbconnection {
                     "jdbc:mysql://localhost:3307/project?autoReconnect=true&useSSL=false","root","");
             return con;
         }catch(Exception e){ System.out.println(e);}
-        //System.out.println("ygfygfuty");
+
 
 
         return null;

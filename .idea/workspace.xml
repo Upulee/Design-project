@@ -4,6 +4,9 @@
     <list default="true" id="7d817811-aa07-4e0e-ae43-ae9b0d2e26eb" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/UI/Dbconnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/UI/Dbconnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/UI/Home.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/UI/Home.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/UI/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/UI/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/UI/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/UI/Login.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,31 +37,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/UI/Login.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1522995251507" expanded="true" signature="1204:1278" ph="SELECT * FRO... login" />
-                <marker date="1522995251507" expanded="true" signature="1204:1279" ph="SELECT * FRO... login" />
-                <marker date="1522995251507" expanded="true" signature="1210:1230" ph="INSERT INTO login... " />
-                <marker date="1522995251507" expanded="true" signature="1210:1278" ph="INSERT INTO login... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Home.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/UI/Home.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Home.form" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/UI/Home.form">
           <provider selected="true" editor-type-id="ui-designer" />
@@ -69,13 +47,32 @@
           <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
-      <file leaf-file-name="Dbconnection.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Home.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/UI/Home.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dbconnection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/UI/Dbconnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="306">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/UI/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#Login#0;class#Login#0" />
               </folding>
             </state>
           </provider>
@@ -103,10 +100,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/UI/Login.form" />
         <option value="$PROJECT_DIR$/src/com/UI/Connection.java" />
+        <option value="$PROJECT_DIR$/src/com/UI/Dbconnection.java" />
+        <option value="$PROJECT_DIR$/src/com/UI/Home.form" />
         <option value="$PROJECT_DIR$/src/com/UI/Home.java" />
         <option value="$PROJECT_DIR$/src/com/UI/Login.java" />
-        <option value="$PROJECT_DIR$/src/com/UI/Home.form" />
-        <option value="$PROJECT_DIR$/src/com/UI/Dbconnection.java" />
       </list>
     </option>
   </component>
@@ -127,7 +124,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,27 +144,44 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="UI" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ACMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ACMS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="e9f4de52:FormNode" />
+            </path>
+            <path>
+              <item name="ACMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ACMS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="e9f4de52:FormNode" />
+            </path>
+            <path>
+              <item name="ACMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="54" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="348" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JAVA" />
+    <property name="last_opened_file_path" value="E:/Softwares/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/Softwares/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar!/" />
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="167" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JAVA" />
-    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="59" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -269,44 +284,45 @@
       <workItem from="1522756318952" duration="2716000" />
       <workItem from="1522910384663" duration="14958000" />
       <workItem from="1522987555905" duration="3938000" />
-      <workItem from="1523274289964" duration="3751000" />
+      <workItem from="1523274289964" duration="5907000" />
+      <workItem from="1523453995896" duration="7092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26557000" />
+    <option name="totallyTimeSpent" value="35805000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1131" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49926794" weight="0.32913387" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.36233184" side_tool="true" visible="true" weight="0.27086616" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49707174" weight="0.14173229" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.63766813" visible="true" weight="0.27086616" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23318386" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.21434978" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50512445" side_tool="true" visible="true" weight="0.41889763" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49487555" weight="0.41889763" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.63762814" weight="0.27086616" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19033675" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.057101026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,14 +334,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/UI/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
+        <state relative-caret-position="833">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1522995251507" expanded="true" signature="1204:1278" ph="SELECT * FRO... login" />
-            <marker date="1522995251507" expanded="true" signature="1204:1279" ph="SELECT * FRO... login" />
-            <marker date="1522995251507" expanded="true" signature="1210:1230" ph="INSERT INTO login... " />
-            <marker date="1522995251507" expanded="true" signature="1210:1278" ph="INSERT INTO login... " />
+            <element signature="method#Login#0;class#Login#0" />
           </folding>
         </state>
       </provider>
@@ -337,21 +350,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/UI/Login.form">
-      <provider selected="true" editor-type-id="ui-designer" />
+    <entry file="file://$PROJECT_DIR$/src/com/UI/Dbconnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/UI/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Login#0;class#Login#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/UI/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/UI/Dbconnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" column="88" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/UI/Home.form">
-      <provider selected="true" editor-type-id="ui-designer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/UI/Login.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -359,10 +388,7 @@
           <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1522995251507" expanded="true" signature="1204:1278" ph="SELECT * FRO... login" />
-            <marker date="1522995251507" expanded="true" signature="1204:1279" ph="SELECT * FRO... login" />
-            <marker date="1522995251507" expanded="true" signature="1210:1230" ph="INSERT INTO login... " />
-            <marker date="1522995251507" expanded="true" signature="1210:1278" ph="INSERT INTO login... " />
+            <element signature="method#Login#0;class#Login#0" />
           </folding>
         </state>
       </provider>
@@ -374,37 +400,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/UI/Login.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/UI/Dbconnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" column="88" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/UI/Home.form">
-      <provider selected="true" editor-type-id="ui-designer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/UI/Login.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1522995251507" expanded="true" signature="1204:1278" ph="SELECT * FRO... login" />
-            <marker date="1522995251507" expanded="true" signature="1204:1279" ph="SELECT * FRO... login" />
-            <marker date="1522995251507" expanded="true" signature="1210:1230" ph="INSERT INTO login... " />
-            <marker date="1522995251507" expanded="true" signature="1210:1278" ph="INSERT INTO login... " />
+            <element signature="method#Login#0;class#Login#0" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/UI/Login.form">
-      <provider selected="true" editor-type-id="ui-designer" />
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -413,39 +424,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/UI/Login.java">
+    <entry file="file://$PROJECT_DIR$/src/com/UI/Dbconnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1522995251507" expanded="true" signature="1204:1278" ph="SELECT * FRO... login" />
-            <marker date="1522995251507" expanded="true" signature="1204:1279" ph="SELECT * FRO... login" />
-            <marker date="1522995251507" expanded="true" signature="1210:1230" ph="INSERT INTO login... " />
-            <marker date="1522995251507" expanded="true" signature="1210:1278" ph="INSERT INTO login... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/UI/Login.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/UI/Home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/UI/Home.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/UI/Dbconnection.java">
+    <entry file="file://$PROJECT_DIR$/src/com/UI/Login.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/UI/Home.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="391">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/UI/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#Login#0;class#Login#0" />
           </folding>
         </state>
       </provider>
